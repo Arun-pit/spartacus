@@ -1,0 +1,29 @@
+
+.container{
+    margin-bottom: 40px;
+    padding: 30px;
+    background: #21211e;
+    color: white;
+    img{
+        width: 100%;
+    }
+    .description{
+        position: relative;
+        top: -70px;
+        text-transform:capitalize;
+        font-size: 18px;
+        font-weight: bold;
+    }
+    .col-4 , .col-2{
+        text-align: center;
+    }
+    .temperature{
+        font-size: 30px;
+        font-weight: bold;
+    }
+    .wind{
+        text-align: left;
+        font-size: 15px;
+    }
+}
+    
